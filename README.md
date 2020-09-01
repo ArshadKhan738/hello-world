@@ -1,2 +1,1 @@
-# hello-world
-Hello-World is great learning experience with Github
+Hi I am Arshad Khan, I am a student at Bow valley College, TechSkills program and learning, data management, IBM Preictive Analytics and IBM Business Intelligence courses, to develop abilities in my self to explore a new career as Business Analyst.
